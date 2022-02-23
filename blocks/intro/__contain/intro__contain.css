@@ -1,0 +1,9 @@
+.intro__contain {
+  width: 690px;
+}
+
+@media (max-width: 1023.98px) {
+  .intro__contain {
+    width: 100%;
+  }
+}
