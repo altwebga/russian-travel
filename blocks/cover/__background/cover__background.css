@@ -22,13 +22,13 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #000;
+  background-color: #2A2C2F;
   opacity: 0.25;
   transition: opacity 0.5s ease-in-out;
 }
 
 .cover__background:hover::after {
-  opacity: 0.8;
+  opacity: 0.75;
 }
 
 @media (max-width: 1279.98px) {
